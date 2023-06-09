@@ -48,6 +48,7 @@
     gap: 3rem;
     flex-direction: row;
     align-items: stretch;
+    margin-top: 7%;
   }
 
   .image {
